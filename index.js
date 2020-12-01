@@ -1,4 +1,4 @@
-const request = require('@nicklason/request-retry');
+const request = require('request-retry-dayjs');
 const cheerio = require('cheerio');
 
 /**
