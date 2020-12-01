@@ -1,7 +1,7 @@
 {
-  "name": "steam-openid-login",
+  "name": "steam-openid-login-2",
   "version": "1.0.0",
-  "description": "Sign in to websites with Steam OpenID",
+  "description": "Sign in to websites with Steam OpenID - Originally from Nicklason",
   "main": "index.js",
   "scripts": {
     "lint": "eslint ./",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nicklason/node-steam-openid-login.git"
+    "url": "git+https://github.com/idinium96/node-steam-openid-login-2.git"
   },
-  "author": "Nicklas Marc Pedersen",
+  "author": "Nicklas Marc Pedersen/IdiNium",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Nicklason/node-steam-openid-login/issues"
+    "url": "https://github.com/idinium96/node-steam-openid-login-2/issues"
   },
-  "homepage": "https://github.com/Nicklason/node-steam-openid-login#readme",
+  "homepage": "https://github.com/idinium96/node-steam-openid-login-2#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "request-retry-dayjs": "^1.0.0"
