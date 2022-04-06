@@ -1,6 +1,6 @@
 {
   "name": "steam-openid-login-dayjs",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Sign in to websites with Steam OpenID - Originally from Nicklason",
   "main": "index.js",
   "scripts": {
