@@ -91,7 +91,7 @@ module.exports = function (url, cookies, callback) {
 
                     callback(null, jar);
                 }
-            );
+            ).end();
         }
-    );
+    ).end();
 };
